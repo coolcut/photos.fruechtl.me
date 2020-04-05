@@ -1,20 +1,18 @@
 {
   "language": "en",
-  "title": "A Photo Blog",
-  "url": "https://photon-11ty.netlify.com",
-  "feedUrl": "https://photon-11ty.netlify.com/feed.xml",
-  "slogan": "My personal stream of photos.",
+  "title": "Photos, by Jan Früchtl",
+  "url": "https://photos.fruechtl.me",
+  "feedUrl": "https://photos.fruechtl.me/feed.xml",
+  "slogan": "This is a collection of my favorite photos from the past years. Most of the photos were taken with an iPhone.",
   "favicon": "🖼",
   "author": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "Jan Früchtl"
   },
   "seo": {
-    "title": "A Photo Blog",
+    "title": "Photos, by Jan Früchtl",
     "description": "Your SEO description"
   },
   "social": {
-    "twitter": "#",
-    "instagram": "#"
+    "twitter": "https://twitter.com/_coolcut"
   }
 }
